@@ -1,0 +1,31 @@
+main{
+    background-color:black ;
+    height: 500px;
+    width: 400px;
+    border-radius: 15px;
+    color: wheat;
+    margin: 25px auto;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.tiitle{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+   
+    margin: 10px auto;
+}
+.text-section{
+     border: 2px solid rgb(255, 0, 0);
+    width: 85%;
+    margin: -5px auto;
+    color: antiquewhite;
+
+}
+.text-title{
+    font-size: smaller;
+    width: 50%;
+    margin: 0% auto;
+}
